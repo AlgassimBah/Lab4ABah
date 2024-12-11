@@ -1,3 +1,12 @@
+/** Project: Lab 4
+ * Purpose Details: System integration, RabbitMQ
+ * Course: IST 242
+ * Author: Joseph Oakes
+ * Date Developed: 12/11/24
+ * Last Date Changed: 12/11/24
+ * Rev: 12/11/24
+
+ */
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;

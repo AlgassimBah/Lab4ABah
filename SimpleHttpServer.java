@@ -1,3 +1,12 @@
+/** Project: Lab 4
+ * Purpose Details: System integration, RabbitMQ
+ * Course: IST 242
+ * Author: Joseph Oakes
+ * Date Developed: 12/11/24
+ * Last Date Changed: 12/11/24
+ * Rev: 12/11/24
+
+ */
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpServer;
